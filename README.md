@@ -31,10 +31,10 @@
 nest 설치 방법
 
 ```bash
-npm i -g @nestjs/cli
+$ npm i -g @nestjs/cli
 
-nest new
-nest new project-name
+$ nest new
+$ nest new project-name
 ```
 
 ## Installation
