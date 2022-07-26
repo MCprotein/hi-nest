@@ -26,6 +26,17 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+[노마드코더 NestJS로 API 만들기](https://nomadcoders.co/nestjs-fundamentals/lobby)
+
+nest 설치 방법
+
+```bash
+npm i -g @nestjs/cli
+
+nest new
+nest new project-name
+```
+
 ## Installation
 
 ```bash
